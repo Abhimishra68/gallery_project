@@ -1,3 +1,5 @@
+![Uploading Screenshot 2026-01-02 130235.png…]()
+![Uploading Screenshot 2026-01-02 130223.png…]()
 📸 React Image Gallery with Pagination
 
 A responsive React application that fetches and displays images from the Picsum API with smooth pagination. Users can navigate between pages using Next and Prev buttons, while a loading state ensures a good user experience during data fetching.
